@@ -1,12 +1,13 @@
-## Hi there 👋
+### About
 
-<!--
+Genetic Games is a solo development organization founded by Ian Santagata as a platform to release portable games on many different platforms.
 
-**Here are some ideas to get you started:**
+Genetic Games generally strives to:
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+- Release games developed to as many platforms as possible (including [our website](https://geneticgames.org))
+- Contribute to the open-source community by making source code available on GitHub
+- Welcome contributors interested in some aspect of game development to create games with us
+
+### Contact
+
+To get involved, ask questions, or raise concerns, please reach out via e-mail to admin@geneticgames.org.
