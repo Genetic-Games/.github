@@ -1,6 +1,6 @@
 ### About
 
-Genetic Games is a solo development organization founded by Ian Santagata as a platform to release portable games on many different platforms.
+Genetic Games is a solo development organization founded by [Ian Santagata](https://iansantagata.com) as a platform to release portable games on many different platforms.
 
 Genetic Games generally strives to:
 
